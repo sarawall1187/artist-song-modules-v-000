@@ -1,4 +1,4 @@
-reuqire "pry"
+require "pry"
 module Findable 
   
    def find_by_name(name) 
